@@ -20,7 +20,6 @@ pnpm run start
 Now add a .cursor/mcp.json file in your project, and paste the following;
 
 ```
-/Users/ivanbtrujillo/Development/mcp-server-spike
 {
     "mcpServers":{
         "weather":{
